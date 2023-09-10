@@ -1,6 +1,6 @@
 baseURL = 'https://bit-of-everything-mc.github.io/Wiki/'
 languageCode = 'en-us'
-title = 'RTevMetrix'
+title = 'RevMetrix'
 
 theme = "hugo-theme-relearn"
 
