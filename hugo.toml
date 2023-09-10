@@ -11,3 +11,14 @@ home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 disableLandingPageButton = true
 themeVariant = "zen-dark"
 collapsibleMenu = true
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub Organization"
+identifier = "ds"
+url = "https://github.com/YCP-Rev-Metrix"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa-brands fa-google-drive'></i> Google Drive"
+url = "https://drive.google.com/drive/folders/1Z_TtR7IVxIza5YR7sO4sxDVqkagdBix5?usp=drive_link"
+weight = 11
