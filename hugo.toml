@@ -5,4 +5,8 @@ title = 'My New Hugo Site'
 theme = "hugo-theme-relearn"
 
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
+home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+
+[params]
+disableLandingPageButton = true
+themeVariant = "dark-blue"
