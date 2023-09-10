@@ -22,3 +22,8 @@ weight = 10
 name = "<i class='fab fa-fw fa-google-drive'></i> Google Drive"
 url = "https://drive.google.com/drive/folders/1Z_TtR7IVxIza5YR7sO4sxDVqkagdBix5?usp=drive_link"
 weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "more/credits/"
+weight = 30
