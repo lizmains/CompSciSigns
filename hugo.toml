@@ -9,4 +9,5 @@ home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 
 [params]
 disableLandingPageButton = true
-themeVariant = "dark-blue"
+themeVariant = "zen-dark"
+collapsibleMenu = true
