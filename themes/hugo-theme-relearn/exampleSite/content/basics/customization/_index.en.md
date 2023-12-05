@@ -21,7 +21,6 @@ This theme defines the following partials :
 - `favicon.html`: the favicon
 - `heading-pre.html`: side-wide configuration to prepend to pages title headings. If you override this, it is your responsibility to take the page's `headingPre` setting into account.
 - `heading-post.html`: side-wide configuration to append to pages title headings. If you override this, it is your responsibility to take the page's `headingPost` setting into account.
-- `logo.html`: the logo, on top left hand corner
 - `meta.html`: HTML meta tags, if you want to change default behavior
 - `menu-pre.html`: side-wide configuration to prepend to menu items. If you override this, it is your responsibility to take the page's `menuPre` setting into account.
 - `menu-post.html`: side-wide configuration to append to menu items. If you override this, it is your responsibility to take the page's `menuPost` setting into account.
